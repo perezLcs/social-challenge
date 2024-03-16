@@ -30,6 +30,7 @@ body {
 }
 
 main {
+    margin-top: 1px;
     height: 580px;
     min-width: 400px;
     background-color: var(--color03);
