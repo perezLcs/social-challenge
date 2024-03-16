@@ -40,3 +40,7 @@ section {
     align-items: center;
     justify-content: center;
 }
+
+section > img.profpicture {
+    border-radius: 50%;
+}
